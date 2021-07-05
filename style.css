@@ -1,0 +1,98 @@
+*{
+    margin: 0%;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+
+#name-head{
+    color: rgb(255, 78, 184);
+}
+
+.headline{
+font-size: 50px;
+color: rgb(19, 255, 30)
+
+}
+
+.section-a{
+    display: flex;
+    padding-bottom: 50px;
+    background-image: url(image/Untitled-1-01.png);
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+
+.section-b{
+    display: flex;
+    padding-bottom: 60px;
+
+}
+.section-a-div{
+    width: 50%;
+    padding-top: 150px;
+
+}
+.section-b-div{
+    width: 40%;
+    padding-left: 80px;
+    padding-top: 200px;
+
+}
+
+.h2-class{
+color: papayawhip;
+    
+}
+
+.section-a-div{
+    width: 40%;
+    margin: 5%;
+    
+
+}
+
+.section-a-b-div{
+    
+
+}
+
+.section-b-div{
+    width: 50%;
+    padding-top: 300px;
+
+
+    
+}
+
+#profileimage{
+    width: 800px;
+    height: 800px;
+}
+
+p{
+    color: mintcream;
+    text-align: justify;
+}
+
+.button-a{
+    color: rgb(46, 46, 46);
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(194, 194, 194), grey );
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 30px;
+    
+
+}
+
+.button-a:hover {
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(rgb(120, 150, 155), rgb(243, 243, 243) );
+    box-shadow: rgb(255, 255, 255);
+}
